@@ -1,0 +1,15 @@
+#t1 {color: rgb(247, 241, 241);}
+body{background-color: rgba 0,0,0,0}
+#t1{background-color: rgb(131, 8, 32);}
+#t2{color: rgb(221, 55, 88);}
+.caixa{ background-color: rgb(131, 8, 32);
+         padding: 20px;
+         padding-left: 550;
+         border :20px rgb(163, 40, 40);
+         margin: 50px ;
+
+}
+.caixas{padding :20px;
+        border : 20px;
+        margin : 50px:
+        }
